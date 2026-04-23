@@ -124,10 +124,6 @@ The cumulative variance explained curve and PCR fit panels show that a relativel
 </p>
 
 <p float="left">
-  <img src="figures/PCR%20factors.png" alt="PCR factors" width="48%" />
-</p>
-
-<p float="left">
   <img src="figures/PCR%285%20factors%29.png" alt="PCR 5 factors" width="32%" />
   <img src="figures/PCR%2810%20factors%29.png" alt="PCR 10 factors" width="32%" />
   <img src="figures/PCR%2820%20factors%29.png" alt="PCR 20 factors" width="32%" />
