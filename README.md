@@ -121,6 +121,9 @@ The cumulative variance explained curve and PCR fit panels show that a relativel
 
 <p float="left">
   <img src="figures/Cumulative%20PVE.png" alt="Cumulative PVE" width="48%" />
+</p>
+
+<p float="left">
   <img src="figures/PCR%20factors.png" alt="PCR factors" width="48%" />
 </p>
 
